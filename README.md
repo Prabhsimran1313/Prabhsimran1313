@@ -1,4 +1,4 @@
-![logo](https://github.com/Prabhsimran1313/Prabhsimran1313/blob/main/Prabhsimran%20Singh%20banner.png)
+![logo]([https://github.com/Prabhsimran1313/Prabhsimran1313/blob/main/Prabhsimran%20Singh%20banner.png](https://github.com/Prabhsimran1313/Prabhsimran1313/blob/main/github%20banner.png))
 <h1 align="center">Hi 👋, I'm Prabhsimran</h1>
 <h3 align="center">A dedicated and an aspiring Software Development Engineer with an objective of working in an organization that provides opportunities for technical and personal advancement.</h3>
 
