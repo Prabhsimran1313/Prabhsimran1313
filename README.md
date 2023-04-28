@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabhsimran singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhsimran singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/prabhsimran singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhsimran singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabhsimran-singh-b4816621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhsimran singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/prabhsimran1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhsimran singh" height="30" width="40" /></a>
 <a href="https://instagram.com/ik_prabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ik_prabh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prabhsimransingh24092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prabhsimransingh24092" height="30" width="40" /></a>
 </p>
